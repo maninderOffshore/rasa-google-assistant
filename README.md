@@ -2,6 +2,8 @@
 
 This repository contains the code of the tutorial of connecting Rasa-powered assistant to Google Assistant. You can find the step-by-step tutorial here.
 
+http://blog.rasa.com/going-beyond-hey-google-building-a-rasa-powered-google-assistant/
+
 ## What's in this repository?
 
 This repository consists of the following files and directories:  
